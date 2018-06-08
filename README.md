@@ -4,7 +4,7 @@ fork的各种工具参考
 
 # General
 
-Cheatsheets - Penetration Testing/Security Cheatsheets - https://web.archive.org/web/20170928133738/ ~~https://github.com/jshaw87/Cheatsheets~~404  
+Cheatsheets - Penetration Testing/Security Cheatsheets - https://web.archive.org/web/20170928133738/ ~~https://github.com/jshaw87/Cheatsheets~~  
 awesome-pentest - penetration testing resources - https://github.com/Hack-with-Github/Awesome-Hacking  
 Red-Team-Infrastructure-Wiki - Red Team infrastructure hardening resources  - https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki  
 Infosec_Reference - Information Security Reference - https://github.com/rmusser01/Infosec_Reference
