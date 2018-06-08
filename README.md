@@ -1,4 +1,4 @@
-fork的各种工具参考
+fork reading
 
 原文见gunsate.txt
 
@@ -148,7 +148,7 @@ Kautilya - Payloads for a Human Interface Device - https://github.com/samratasho
 
 JavaReverseTCPShell - Spawns a reverse TCP shell in Java - https://github.com/quantumvm/JavaReverseTCPShell  
 splunk_shells - Splunk with reverse and bind shells - https://github.com/TBGSecurity/splunk_shells  
-pyshell - shellify Your HTTP Command Injection - https://github.com/praetorian-inc/pyshell
+pyshell - shellify Your HTTP Command Injection - https://github.com/praetorian-inc/pyshell  
 RobotsDisallowed - harvest of the Disallowed directories - https://github.com/danielmiessler/RobotsDisallowed  
 SecLists - collection of multiple types of lists - https://github.com/danielmiessler/SecLists  
 Probable-Wordlists - Wordlists sorted by probability - https://github.com/berzerk0/Probable-Wordlists  
